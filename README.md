@@ -33,8 +33,6 @@ const Srijon = {
 <div align="center">
   <h1>Statictics</h1>
 
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=srijonp4&theme=nord)
 ![Srijons's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijonp4&theme=nord&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonp4&layout=compact&theme=nord)
 </div>
 
