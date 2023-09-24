@@ -18,10 +18,10 @@ const Srijon = {
   currentlyLearning: ["react","nextjs","expressJs"],
   interestedInLearning:["Flutter", "React", "TypeScript"],
   education: {
-                        Secondary: "Sodepur Chandrachur Vidyapith",
-                        HigherSecondary: "Sodepur Chandrachur Vidyapith",
-                        B-Tech: "Guru Nanak Institute of Technology"
-                      },
+    Secondary: "Sodepur Chandrachur Vidyapith",
+    HigherSecondary: "Sodepur Chandrachur Vidyapith",
+    B-Tech: "Guru Nanak Institute of Technology"
+  },
 }
 ```
 - <img src="src/linux_rounded.gif" width="30" /> I’m currently learning **WebDev**. <img width="15%" align="right" src="src/linux_rounded.gif" /><br>
